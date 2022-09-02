@@ -14,3 +14,7 @@ The aim was to try and create a workday scheduler in which users could input eve
 - User input events are successfully saved to Local storage with appropriate keys, they are then successfully recalled despite page refresh
 - A confim alert appears at the top of the schedule during a save event. Then the alert disappears after 1 sec
 - Save button behaves appropriately upon hover and click events
+
+## Depolyed Link
+ https://slingshort.github.io/js_workday_scheduler/
+ 
